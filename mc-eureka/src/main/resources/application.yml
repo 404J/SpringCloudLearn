@@ -1,10 +1,33 @@
+# Eureka 的集群方式配置, 互相发现
+spring:
+  application:
+    name: mc-eureka-ha
+  profiles:
+    active: peer1
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8000/eureka/, http://peer2:8001/eureka/
+---
+# 启动方式 java -jar xx.jar --spring.profiles.active=peer1
+spring:
+  profiles: peer1
 server:
   port: 8000
 eureka:
-  client:
-    # 是否要注册到其他Eureka Server实例
-    register-with-eureka: false
-    # 是否要从其他Eureka Server实例获取数据
-    fetch-registry: false
-    service-url:
-      defaultZone: http://localhost:8000/eureka/
+  instance:
+    hostname: peer1
+  server:
+    enable-self-preservation: false
+---
+# 启动方式 java -jar xx.jar --spring.profiles.active=peer1
+spring:
+  profiles: peer2
+server:
+  port: 8001
+eureka:
+  instance:
+    hostname: peer2
+  server:
+#    关闭自我保护功能
+#    enable-self-preservation: false

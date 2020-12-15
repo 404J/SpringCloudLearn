@@ -16,7 +16,11 @@ public class MovieController {
 
     @GetMapping("/users/{id}")
     public User findById(@PathVariable Long id) {
-        User user = restTemplate.getForObject("http://localhost:8000/users/{id}", User.class, id);
+        User user = restTemplate.getForObject(
+                "http://mc-user/users/{id}", // 地址填写目标服务名称 Ribbon
+                User.class,
+                id
+        );
         return user;
     }
 }
