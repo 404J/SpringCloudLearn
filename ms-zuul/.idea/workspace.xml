@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2219c9ac-bf62-4133-9f51-1644304f0e91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/mc-eureka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/src/main/java/com/mars/McEurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-eureka/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/mc-movie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/src/main/java/com/mars/McMovieApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/src/main/java/com/mars/MovieController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/src/main/java/com/mars/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-movie/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/java/com/mars/McUserApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/java/com/mars/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/java/com/mars/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/java/com/mars/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/resources/application.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mE5WEkYvWh8wQsPHVA3AeRChl6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mars" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ms-zuul" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ms-zuul" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ms-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mars.MsZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MsZuulApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2219c9ac-bf62-4133-9f51-1644304f0e91" name="Default Changelist" comment="" />
+      <created>1609045939636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609045939636</updated>
+      <workItem from="1609045941577" duration="4122000" />
+      <workItem from="1609053952859" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1609048444263">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state x="533" y="147" key="#com.intellij.ide.util.MemberChooser/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609048444263" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1609052199895">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199895" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1609052199895">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199895" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1609052199894">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199894" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1609052199895">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199895" />
+    <state width="1398" height="262" key="GridCell.Tab.1.bottom" timestamp="1609052199896">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.bottom/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
+    <state width="1398" height="262" key="GridCell.Tab.1.center" timestamp="1609052199896">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.center/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
+    <state width="1398" height="262" key="GridCell.Tab.1.left" timestamp="1609052199896">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.left/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
+    <state width="1398" height="262" key="GridCell.Tab.1.right" timestamp="1609052199896">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.1.right/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
+    <state width="1398" height="262" key="GridCell.Tab.2.bottom" timestamp="1609052199897">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.bottom/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199897" />
+    <state width="1398" height="262" key="GridCell.Tab.2.center" timestamp="1609052199896">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.center/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
+    <state width="1398" height="262" key="GridCell.Tab.2.left" timestamp="1609052199896">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.left/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
+    <state width="1398" height="262" key="GridCell.Tab.2.right" timestamp="1609052199897">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.2.right/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199897" />
+    <state x="208" y="25" width="1024" height="823" key="SettingsEditor" timestamp="1609052154069">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state x="208" y="25" width="1024" height="823" key="SettingsEditor/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052154069" />
+  </component>
+</project>
