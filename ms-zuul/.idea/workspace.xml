@@ -2,42 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2219c9ac-bf62-4133-9f51-1644304f0e91" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/mc-eureka.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/src/main/java/com/mars/McEurekaApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-eureka/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/mc-movie.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/src/main/java/com/mars/McMovieApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/src/main/java/com/mars/MovieController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/src/main/java/com/mars/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-movie/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/java/com/mars/McUserApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/java/com/mars/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/java/com/mars/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/java/com/mars/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mc-user/src/main/resources/application.yml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/ms-config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/src/main/java/com/mars/MsConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-config/src/main/resources/config/ms-user-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-movie-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-movie-feign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-movie-feign/src/main/java/com/mars/UserFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-movie-feign/src/main/java/com/mars/UserFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-movie-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-movie-feign/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609045939636</updated>
       <workItem from="1609045941577" duration="4122000" />
-      <workItem from="1609053952859" duration="630000" />
+      <workItem from="1609053952859" duration="12723000" />
     </task>
     <servers />
   </component>
@@ -177,38 +161,46 @@
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state x="533" y="147" key="#com.intellij.ide.util.MemberChooser/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609048444263" />
-    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1609052199895">
+    <state width="1398" height="393" key="GridCell.Tab.0.bottom" timestamp="1609644803378">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199895" />
-    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1609052199895">
+    <state width="1398" height="393" key="GridCell.Tab.0.bottom/0.25.1440.823@0.25.1440.823" timestamp="1609644803378" />
+    <state width="1398" height="393" key="GridCell.Tab.0.center" timestamp="1609644803378">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.0.center/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199895" />
-    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1609052199894">
+    <state width="1398" height="393" key="GridCell.Tab.0.center/0.25.1440.823@0.25.1440.823" timestamp="1609644803378" />
+    <state width="1398" height="393" key="GridCell.Tab.0.left" timestamp="1609644803377">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.0.left/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199894" />
-    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1609052199895">
+    <state width="1398" height="393" key="GridCell.Tab.0.left/0.25.1440.823@0.25.1440.823" timestamp="1609644803377" />
+    <state width="1398" height="393" key="GridCell.Tab.0.right" timestamp="1609644803378">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.0.right/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199895" />
-    <state width="1398" height="262" key="GridCell.Tab.1.bottom" timestamp="1609052199896">
+    <state width="1398" height="393" key="GridCell.Tab.0.right/0.25.1440.823@0.25.1440.823" timestamp="1609644803378" />
+    <state width="1398" height="393" key="GridCell.Tab.1.bottom" timestamp="1609644803380">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.1.bottom/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
-    <state width="1398" height="262" key="GridCell.Tab.1.center" timestamp="1609052199896">
+    <state width="1398" height="393" key="GridCell.Tab.1.bottom/0.25.1440.823@0.25.1440.823" timestamp="1609644803380" />
+    <state width="1398" height="393" key="GridCell.Tab.1.center" timestamp="1609644803379">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.1.center/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
-    <state width="1398" height="262" key="GridCell.Tab.1.left" timestamp="1609052199896">
+    <state width="1398" height="393" key="GridCell.Tab.1.center/0.25.1440.823@0.25.1440.823" timestamp="1609644803379" />
+    <state width="1398" height="393" key="GridCell.Tab.1.left" timestamp="1609644803379">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.1.left/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
-    <state width="1398" height="262" key="GridCell.Tab.1.right" timestamp="1609052199896">
+    <state width="1398" height="393" key="GridCell.Tab.1.left/0.25.1440.823@0.25.1440.823" timestamp="1609644803379" />
+    <state width="1398" height="393" key="GridCell.Tab.1.right" timestamp="1609644803379">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state width="1398" height="262" key="GridCell.Tab.1.right/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052199896" />
+    <state width="1398" height="393" key="GridCell.Tab.1.right/0.25.1440.823@0.25.1440.823" timestamp="1609644803379" />
     <state width="1398" height="262" key="GridCell.Tab.2.bottom" timestamp="1609052199897">
       <screen x="0" y="25" width="1440" height="823" />
     </state>
@@ -229,5 +221,9 @@
       <screen x="0" y="25" width="1440" height="823" />
     </state>
     <state x="208" y="25" width="1024" height="823" key="SettingsEditor/0.25.1440.823/1440.25.1194.731@0.25.1440.823" timestamp="1609052154069" />
+    <state x="126" y="96" key="new project wizard" timestamp="1609076231557">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state x="126" y="96" key="new project wizard/0.25.1440.823@0.25.1440.823" timestamp="1609076231557" />
   </component>
 </project>
