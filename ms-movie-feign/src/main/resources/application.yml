@@ -1,5 +1,6 @@
 server:
-  port: 8004
+  port: 18004
+
 spring:
   application:
     name: ms-movie-feign
@@ -9,19 +10,24 @@ spring:
     sampler:
       # 采样率，模式0.1，也就是10%，为了便于观察效果，改为1.0，也就是100%。生产环境建议保持默认。
       probability: 1.0
+
 eureka:
   client:
     service-url:
       # 指定eureka server通信地址，注意/eureka/小尾巴不能少
-      defaultZone: http://peer1:8000/eureka/, http://peer2:8001/eureka/
+      defaultZone: http://peer1:18000/eureka/, http://peer2:18001/eureka/
   instance:
     # 是否注册IP到eureka server，如不指定或设为false，那就会注册主机名到eureka server
     prefer-ip-address: true
+
 feign:
   client:
     config:
       mc-user:
         loggerLevel: full
+#      default:
+#        connectTimeout: 2000
+#        readTimeout: 2000
   compression:
     request:
       enabled: true
@@ -29,6 +35,22 @@ feign:
       enabled: true
   hystrix:
     enabled: true
+
+ribbon:
+  # ribbon 和 feign 同时设置超时时间，ribbon的配置会被覆盖
+  readTimeout: 2000
+  connectTimeout: 2000
+  MaxAutoRetries: 3
+
+# hystrix 配置
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 100000
+
 logging:
   level:
     com.mars.UserFeignClient: debug

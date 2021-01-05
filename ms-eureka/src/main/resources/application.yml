@@ -7,7 +7,7 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://peer1:8000/eureka/, http://peer2:8001/eureka/
+      defaultZone: http://peer1:18000/eureka/, http://peer2:18001/eureka/
 logging:
   level:
     root: INFO
@@ -17,7 +17,7 @@ logging:
 spring:
   profiles: peer1
 server:
-  port: 8000
+  port: 18000
 eureka:
   instance:
     hostname: peer1
@@ -28,7 +28,7 @@ eureka:
 spring:
   profiles: peer2
 server:
-  port: 8001
+  port: 18001
 eureka:
   instance:
     hostname: peer2

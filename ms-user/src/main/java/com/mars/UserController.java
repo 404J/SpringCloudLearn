@@ -18,6 +18,11 @@ public class UserController {
     @GetMapping("/{id}")
     public Optional<User> findById(@PathVariable Long id) {
         Optional<User> user = userRepository.findById(id);
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         return user;
     }
 }
