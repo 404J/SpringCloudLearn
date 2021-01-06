@@ -15,4 +15,24 @@ public class UserFeignClientFallBackImpl implements UserFeignClient{
         log.error("获取用户失败, " + cause.getMessage());
         return new User(0, "defaultUser");
     }
+
+    @Override
+    public String testRibbonRetry() {
+        log.error("测试 Ribbon Retry 降级, " + cause.getMessage());
+        return "降级了";
+    }
+
+    @Override
+    public String testHystrixThread() {
+        log.error("测试 Hystrix Thread 降级, " + cause.getMessage());
+        System.out.println("测试 Hystrix Thread 降级");
+        return "降级了";
+    }
+
+    @Override
+    public String testHystrixBreaker() {
+        log.error("测试 Hystrix Breaker 降级, " + cause.getMessage());
+        System.out.println("测试 Hystrix Breaker 降级");
+        return "降级了";
+    }
 }

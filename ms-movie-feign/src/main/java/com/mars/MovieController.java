@@ -19,4 +19,28 @@ public class MovieController {
         User user = userFeignClient.findById(id);
         return user;
     }
+
+    @GetMapping("/ribbon-retry")
+    public String testRibbonRetry() {
+        String str = userFeignClient.testRibbonRetry();
+        return str;
+    }
+
+    @GetMapping("/hystrix-thread")
+    public String testHystrixThread() {
+        String str = userFeignClient.testHystrixThread();
+        if (!"降级了".equals(str)) {
+            System.out.println("测试 Hystrix Thread 成功返回");
+        }
+        return str;
+    }
+
+    @GetMapping("/hystrix-breaker")
+    public String testHystrixBreaker() {
+        String str = userFeignClient.testHystrixBreaker();
+        if (!"降级了".equals(str)) {
+            System.out.println("测试 Hystrix Breaker 成功返回");
+        }
+        return str;
+    }
 }

@@ -1,6 +1,7 @@
 package com.mars;
 
 import com.netflix.hystrix.exception.HystrixTimeoutException;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.cloud.netflix.zuul.filters.route.FallbackProvider;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
@@ -13,6 +14,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.Charset;
 
+@Slf4j
 @Component
 public class UserFallBack implements FallbackProvider {
     @Override
@@ -22,6 +24,7 @@ public class UserFallBack implements FallbackProvider {
 
     @Override
     public ClientHttpResponse fallbackResponse(String route, Throwable cause) {
+        log.error("测试 Ribbon Retry 降级, " + cause);
         if (cause instanceof HystrixTimeoutException) {
             return response(HttpStatus.GATEWAY_TIMEOUT);
         } else {
