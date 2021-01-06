@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2219c9ac-bf62-4133-9f51-1644304f0e91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config/ms-config.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config/src/main/java/com/mars/MsConfigApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-config/src/main/resources/config/ms-user-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-user/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-movie-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-movie-feign/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-movie-feign/src/main/java/com/mars/UserFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-movie-feign/src/main/java/com/mars/UserFeignClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-movie-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-movie-feign/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-user/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="2219c9ac-bf62-4133-9f51-1644304f0e91" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,53 +51,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="ms-zuul" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="ms-zuul" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MsZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ms-zuul" />
       <extension name="coverage">
@@ -150,6 +82,7 @@
       <updated>1609045939636</updated>
       <workItem from="1609045941577" duration="4122000" />
       <workItem from="1609053952859" duration="12723000" />
+      <workItem from="1609850928531" duration="23000" />
     </task>
     <servers />
   </component>
